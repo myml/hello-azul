@@ -1,0 +1,8 @@
+[package]
+name = "hello-azul"
+version = "0.1.0"
+authors = ["myml <wurongjie1@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+azul = { git = "https://github.com/maps4print/azul" }
